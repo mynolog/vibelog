@@ -1,1 +1,1 @@
-# Vibelog
+# Vibelog - Frontend
